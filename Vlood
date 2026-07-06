@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/2ee6ef891c5ed36532b05528af05db2b02b53861258586a16c4912f19dfb41d4/download"))()
+Print("shut down")
